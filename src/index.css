@@ -1,9 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-/* Custom scrollbars and dark background */
-body {
-  @apply bg-black text-gray-100;
-}
-
