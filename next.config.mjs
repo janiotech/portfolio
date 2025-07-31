@@ -10,7 +10,7 @@ const nextConfig = {
     unoptimized: true,
   },
   output: 'export',
-  basePath: '/portfolio-v2', // Troque pelo nome do repositório
+  basePath: '/portfolio', // Troque pelo nome do repositório
   assetPrefix: './',
 }
 
