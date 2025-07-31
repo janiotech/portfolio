@@ -11,7 +11,7 @@ const nextConfig = {
   },
   output: 'export',
   basePath: '/portfolio-v2', // Troque pelo nome do repositório
-  assetPrefix: '/portfolio-nextjs/',
+  assetPrefix: './',
 }
 
 export default nextConfig
