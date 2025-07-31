@@ -10,8 +10,8 @@ const nextConfig = {
     unoptimized: true,
   },
   output: 'export',
-  basePath: '/portfolio', // Troque pelo nome do repositório
-  assetPrefix: '/portfolio/',
+  basePath: '', // Troque pelo nome do repositório
+  assetPrefix: '',
 }
 
 export default nextConfig
