@@ -84,7 +84,7 @@ export default function Portfolio() {
       tech: ["Java", "Spring Boot", "React", "MySQL", "Docker"],
       github: "#",
       demo: "#",
-      image: "/placeholder.svg?height=200&width=400",
+      image: "./placeholder.svg?height=200&width=400",
     },
     {
       title: "Task Management API",
@@ -93,7 +93,7 @@ export default function Portfolio() {
       tech: ["Java", "Spring Boot", "PostgreSQL", "JWT", "Swagger"],
       github: "#",
       demo: "#",
-      image: "/placeholder.svg?height=200&width=400",
+      image: "./placeholder.svg?height=200&width=400",
     },
     {
       title: "Real-time Chat App",
@@ -101,7 +101,7 @@ export default function Portfolio() {
       tech: ["JavaScript", "Node.js", "Socket.io", "React", "MongoDB"],
       github: "#",
       demo: "#",
-      image: "/placeholder.svg?height=200&width=400",
+      image: "./placeholder.svg?height=200&width=400",
     },
   ]
 
@@ -190,7 +190,7 @@ export default function Portfolio() {
               <div className="relative group">
                 <div className="w-80 h-80 rounded-full bg-gradient-to-br from-emerald-400 to-emerald-600 p-2 group-hover:scale-105 transition-transform duration-500 group-hover:rotate-3">
                   <Avatar className="w-full h-full group-hover:scale-95 transition-transform duration-500">
-                    <AvatarImage src="/placeholder.png?height=320&width=320" alt="Jânio" />
+                    <AvatarImage src="./placeholder.png?height=320&width=320" alt="Jânio" />
                     <AvatarFallback className="text-6xl font-bold text-white bg-emerald-500">J</AvatarFallback>
                   </Avatar>
                 </div>
